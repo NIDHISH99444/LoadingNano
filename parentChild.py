@@ -5,5 +5,4 @@ class Parent :
      self.name=name
 
 
-
 nid=Parent("nid")
